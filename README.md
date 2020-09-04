@@ -1,0 +1,1 @@
+This web-based application will allow user to create account as a doctor or patient, interact and exchange information with each other, in this way the doctor would be able keep tracking patient health information online and achieve other purposes. 
